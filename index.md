@@ -6,7 +6,10 @@ title: Ivan Olivares
 # Ivan Olivares
 Software Developer
 
-[Email](mailto:ivan@example.com) | [LinkedIn](https://www.linkedin.com/in/ivan-olivares)
+<div id="webaddress">
+ <a href="io.dev8@gmail.com">Email</a>
+|<a href="https://www.linkedin.com/in/ivan-olivares-moreno-230711212/">LinkedIn</a>
+</div>
 
 ## Profile
 
