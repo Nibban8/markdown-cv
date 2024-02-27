@@ -7,7 +7,7 @@ title: Ivan Olivares
 Software Developer
 
 <div id="webaddress">
- <a href="io.dev8@gmail.com">Email</a>
+ <a href="mailto:io.dev8@gmail.com">Email</a>
 |<a href="https://www.linkedin.com/in/ivan-olivares-moreno-230711212/">LinkedIn</a>
 </div>
 
@@ -28,11 +28,6 @@ Emerging technologies, software architecture, agile methodologies, cloud computi
 `2018-2022`
 __Bachelor of Computer Systems Engineering__  
 Instituto Tecnológico de Ensenada
-
-## Awards
-
-`202X`
-Top Performer Award, *LKMX*
 
 ## Occupation
 
